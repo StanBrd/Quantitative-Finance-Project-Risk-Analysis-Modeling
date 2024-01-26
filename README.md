@@ -1,7 +1,7 @@
 # Quantitative-Finance-Project-Risk-Analysis-Modeling
 
 ## Description
-This project is dedicated to the estimation and analysis of market risk using historical data of Natixis stock from 2015 to 2016. The objective is to utilize advanced statistical methods to understand and manage the risks associated with financial market fluctuations.
+This project, conducted as part of a course curriculum, focuses on the estimation and analysis of market risk using historical data of Natixis stock from 2015 to 2016. The objective is to employ advanced statistical methods to understand and manage the risks associated with financial market fluctuations. Detailed calculations and methodologies are documented in the 'Market Risk Project' PDF accompanying this repository.
 
 ## Features
 - **Historical Value at Risk (VaR) Estimation:** A non-parametric approach is employed to estimate the historical VaR using Natixis stock data.
